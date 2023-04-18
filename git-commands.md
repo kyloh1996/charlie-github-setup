@@ -27,4 +27,4 @@
 - Click Generate token
 - DO NOT NAVIGATE AWAY FROM PAGE UNTIL YOU HAVE COPIED THE TOKEN AND PASTED IT SOMEWHERE IN A SAFE PLACE
 - Paste the token in a note file for temporary storage
-testing...
+- 
